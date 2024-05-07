@@ -1,0 +1,38 @@
+Matlab Resources:
+	Image Segmentation and Analysis: https://es.mathworks.com/help/images/image-analysis.html?lang=en
+	
+Matlab Examples:
+	Entropy: https://es.mathworks.com/help/images/texture-segmentation-using-texture-filters.html?lang=en
+	Gabor: https://es.mathworks.com/help/images/texture-segmentation-using-gabor-filters.html?lang=en
+    k-means Lab: https://es.mathworks.com/help/images/color-based-segmentation-using-k-means-clustering.html?lang=en
+
+Matlab Central:
+	(CNN) Multiresolution Texture Segmentation: https://es.mathworks.com/matlabcentral/fileexchange/67931-multiresolution-texture-segmentation
+	
+Papers:
+	Review of texture image analysis and texture classification methods: https://arxiv.org/pdf/1904.06554
+	Comparison between Five Traditional Algorithms and a DL U-Net Architecture - https://www.mdpi.com/536090
+	
+Online Resources:
+	Purdue Texture Analysis: http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth06.pdf
+
+Keywords:
+	Algortihms:
+		Co-Occurrence Matrices (CM)
+		Watershed (WS)
+		Local Binary Patterns (LBP)
+		Multiresolution Sub-Band Filtering (MSBF)
+		
+		CM -> WS
+		
+		(CNN) U-Net Architecture
+
+Pendents:
+Watershed: https://es.mathworks.com/help/images/marker-controlled-watershed-segmentation.html
+Lab segm: https://es.mathworks.com/help/images/color-based-segmentation-using-the-l-a-b-color-space.html
+
+Earth:
+https://earth.google.com/web/@41.33925025,2.08171644,7.22917024a,1320.70170204d,35y,147.78848871h,0t,0r/data=OgMKATA
+
+Drive:
+https://drive.google.com/drive/u/0/folders/1b4SkjKfj78XLC-7tJk5HQ-MVUF5dotil

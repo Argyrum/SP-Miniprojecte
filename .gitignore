@@ -12,7 +12,7 @@
 *.mltbx
 helpsearch*/
 codegen/
-figureOut/
+figureOut*/
 
 ### Simulink  ###
 slprj/
